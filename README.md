@@ -14,5 +14,7 @@ Use Tableau to perform exploratory data analysis and pull unique insights from t
 Make a one-page report with main insights and recommendations.
 
 For detailed SQL queries, refer to https://colab.research.google.com/drive/1kiSzzPo9hO83b11WhIuI9l1cVHpFiaCe?authuser=2#scrollTo=OpQU2C-uY3nz
+
 For detailed spreadsheet, refer to https://docs.google.com/spreadsheets/d/1oYGYsY3EP_Hq4jbwTr5PQBtQfGuxLRuVhF7Svp7FQC0/edit?gid=1131846199#gid=1131846199
+
 For detailed visualizations, refer to https://public.tableau.com/app/profile/mingming.zhang3107/viz/unicornstory_17204497162630/unicorn
